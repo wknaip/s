@@ -1,0 +1,52 @@
+body {
+    background: #CCCCCC;
+    width: 10px;
+ }
+
+ h1 {
+    text-align: center;
+ }
+
+ p {
+    text-align: center;
+ }
+
+ em{
+   text-align: center;
+ }
+
+ em strong {
+    color: #FF0000;
+ }
+
+ #pokemon.jpg {
+    width: 100%;
+ }
+
+ h2 {
+    text-align: center;
+ }
+
+ h3 {
+    text-align: center;
+ }
+
+ class.itens {
+  text-align: center;
+ }
+
+ #id.missao{
+    text-align: center;
+ }
+
+ #pokemon.jpg.png{
+   width: 100%;
+ }
+
+ pokemon.jpg (1).png{
+   width: 100%;
+ }
+
+ ul{
+text-align: center;
+ }
